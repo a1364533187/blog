@@ -11,10 +11,10 @@ permalink:        pretty
 title:            fiona
 tagline:          '从这里出初江湖，携手仗剑江湖路'
 description:      'Hello'
-baseurl:           /blog
+baseurl:           /wuer-sBlog
 author:
   name:           'fiona'
-  url:            https://github.com/fiona23
+  url:            https://a1364533187.github.io
 
 paginate:        5
 
