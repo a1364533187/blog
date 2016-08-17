@@ -2,7 +2,7 @@
 layout: post
 author: fiona
 title: 用canvas写一个开场动画
-tag: [javascript, canvas, 教程]
+tag: [总结, 软件]
 ---
 
 你是从首页无意中点进来的么？喜欢首页的那个旋转的动画的话，跟着这篇博客就能很快做出来哟！
