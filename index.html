@@ -17,6 +17,15 @@ title: 阿武的博客
             </ul>
         </div>
         <![endif]-->
+         <div id="tags">
+            <ul class="tags-list">
+            {% for tag in site.tags %}
+            <li class="tag-li">
+            <a href="{{ site.baseurl }}/tag/index.html#{{ tag | first}}">{{ tag | first }}</a>
+            </li>
+            {% endfor %}
+            </ul>
+        </div>
      
     </aside><!--banner end-->
     <section id="blog-list">
