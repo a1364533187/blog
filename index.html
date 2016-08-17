@@ -22,6 +22,7 @@ title: 阿武的博客
             {% for tag in site.tags %}
             <li class="tag-li">
             <a href="{{ site.baseurl }}/tag/index.html#{{ tag | first}}">{{ tag | first }}</a>
+            {{ site.baseurl }}
             </li>
             {% endfor %}
             </ul>
