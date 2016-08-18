@@ -1,7 +1,7 @@
 ---
 layout: post
 author: 武儿
-title: [leectode]：Valid Anagram(有效的字谜)
+title: 【leectode】：Valid Anagram(有效的字谜)
 category: 技术
 tag: [总结]
 ---
