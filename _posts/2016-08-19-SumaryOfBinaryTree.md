@@ -3,7 +3,7 @@ layout: post
 author: 武儿
 title: 二叉树的总结
 category: 技术
-tag: [总结，软件]
+tag: [总结,软件]
 ---
 
 # 坚持
