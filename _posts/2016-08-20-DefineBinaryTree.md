@@ -20,7 +20,7 @@ typedef struct BiTNode
 {% endhighlight %}
 
 ## java语言定义二叉树
-java内部类
+java内部类的使用
 class BinaryTree {  
 	  
     public Node root;  
