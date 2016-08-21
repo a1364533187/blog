@@ -60,7 +60,7 @@ class Solution {
 {% endhighlight %}
 
 ## method 3
-超时，但是最容易想出，判断s中的每个字符是否在t中能找到，核心定义一个数组大小等于t,判断该数组是否每一位都等于1，若是，则满足条件
+超时，但是最容易想出，判断s中的每个字符是否在t中能找到，核心定义一个数组tts大小等于t,若s中的某个元素与t的某个位置上的元素相等，则将tts对应该位置的元素置为1，判断该数组是否每一位都等于1，若是，则满足条件
 {% highlight js %}
 public boolean isAnagram(String s, String t) {
     	if(s.length()!=t.length()){
