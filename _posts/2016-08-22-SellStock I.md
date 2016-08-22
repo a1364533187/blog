@@ -24,7 +24,7 @@ Output: 0
 
 In this case, no transaction is done, i.e. max profit = 0.
 
-##  method 1
+#  method 1
 超时，我首先想到的方法，方法思想，将数组中每两个数都进行比较，运用两层for循环即可，这个方法不好，
 时间复杂度O(n*n)，以后想到这种方法就应该再想更优化的方法
 {% highlight js %}
