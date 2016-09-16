@@ -15,7 +15,7 @@ tag: [杂记]
 
 <br/>
 
-<h2>但不努力真的好舒服啊<h2/>  :smile: :smile:
+<h1>但不努力真的好舒服啊<h1/>  :smile: :smile:
 
 
 
