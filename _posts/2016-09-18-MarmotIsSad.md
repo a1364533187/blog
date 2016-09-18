@@ -1,7 +1,7 @@
 ---
 layout: post
-author: 土拨鼠。。它。。惆怅了。。。
-title: 用canvas写一个开场动画
+author: 武儿
+title: 土拨鼠。。它。。惆怅了。。。
 category: 生活
 tag: [杂记]
 ---
