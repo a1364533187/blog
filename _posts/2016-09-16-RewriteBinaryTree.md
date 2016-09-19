@@ -59,6 +59,8 @@ class Tree{
 						current.lchild = tnlnode;
 						listNode.add(tnlnode);
 					}
+				}
+				if(2*i+2<objs.length){
 					if(objs[2*i+2]==null){
 						listNode.add(null);
 					}
