@@ -8,9 +8,11 @@ tag: [软件]
 397. Integer Replacement
 
 Given a positive integer n and you can do operations as follow:
-
+<br/>
 If n is even, **replace n with n/2**.
+<br/>
 If n is odd, you can replace n with **either n + 1 or n - 1**.
+<br/>
 What is the minimum number of replacements needed for n to become 1?
 
 ##Example 1:
