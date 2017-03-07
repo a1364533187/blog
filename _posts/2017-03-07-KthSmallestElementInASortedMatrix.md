@@ -128,4 +128,4 @@ class MinNum{
         this.val = val;
     }
 }
-{% highlight js %}
+{% endhighlight %}
