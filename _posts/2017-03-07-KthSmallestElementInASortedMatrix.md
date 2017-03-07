@@ -1,7 +1,7 @@
 ---
 layout: post
 author: 武儿
-title: 求子集问题四种解法
+title: Kth Smallest Element in a Sorted Matrix
 category: 技术
 tag: [软件]
 ---
